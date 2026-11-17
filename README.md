@@ -16,10 +16,3 @@ I am a Computer Science and Design undergraduate passionate about low-level syst
 * **Codeforces:** [@BinaryNull](https://codeforces.com/profile/BinaryNull)
 * **LeetCode:** [@BinArray01](https://leetcode.com/BinArray01)
 * **AtCoder:** Active Contributor
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshilnikam01-lgtm&show_icons=true&theme=transparent&hide_border=true" alt="Darshil's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilnikam01-lgtm&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
-</div>
