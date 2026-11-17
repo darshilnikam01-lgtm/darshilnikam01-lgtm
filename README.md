@@ -2,6 +2,7 @@
 <h3 align="center">CS Undergrad | Systems, ML & Quantitative Engineering</h3>
 
 <p align="center">
+  <a href="https://darshilnikam01-lgtm.github.io/"> <b>Portfolio</b></a> &nbsp;&bull;&nbsp;
   <a href="https://www.linkedin.com/in/darshil-nikam-b2b08432b/"> <b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
   <a href="mailto:darshilnikam01@gmail.com"> <b>Email</b></a> &nbsp;&bull;&nbsp;
   <a href="https://github.com/darshilnikam01-lgtm"> <b>GitHub</b></a>
