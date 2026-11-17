@@ -1,27 +1,25 @@
-<h1 align="center">Hi, I'm Darshil Nikam 👋</h1>
+<h1 align="center">Hi, I'm Darshil Nikam </h1>
 <h3 align="center">CS Undergrad | Systems, ML & Quantitative Engineering</h3>
 
 <p align="center">
-  <a href="https://darshilnikam01-lgtm.github.io/">🌐 <b>Portfolio Website</b></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:darshilnikam01@gmail.com">📧 <b>Email</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/darshilnikam01-lgtm">🐙 <b>GitHub</b></a>
+  <a href="https://www.linkedin.com/in/darshil-nikam-b2b08432b/"> <b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:darshilnikam01@gmail.com"> <b>Email</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/darshilnikam01-lgtm"> <b>GitHub</b></a>
 </p>
 
 ---
 
-### 🛠️ About Me
-I am a Computer Science and Design undergraduate passionate about low-level systems, algorithmic problem-solving, and scalable machine learning infrastructure. I enjoy tackling complex computational challenges and building robust software solutions.
+I am a Computer Science and Design undergraduate passionate about low-level systems, algorithmic problem-solving, and scalable machine learning infrastructure. I absolutely love making open-source contributions and collaborating on robust software solutions.
 
-### 🚀 Featured Projects & Work
-* **[ml-journey](https://github.com/darshilnikam01-lgtm/ml-journey):** A structured repository tracking machine learning workflows, implementations, and experiments.
-* **OsdagBridge (FOSSEE, IIT Bombay):** Refactoring PyLaTeX-based automated structural engineering report generators.
-* **DraftMate AI:** AI-powered legal drafting platform (Secured 3rd Place Hackathon Winner).
-
-### 📊 Competitive Programming & Profiles
+* **Tech Stack:** C++, Python, JavaScript, LaTeX
+* **Core Domains:** Data Structures & Algorithms, Systems Programming, Machine Learning, Web Development
 * **Codeforces:** [@BinaryNull](https://codeforces.com/profile/BinaryNull)
 * **LeetCode:** [@BinArray01](https://leetcode.com/BinArray01)
 * **AtCoder:** Active Contributor
 
-### 💻 Technical Arsenal
-* **Languages:** C++, Python, JavaScript, LaTeX
-* **Core Domains:** Data Structures & Algorithms, Systems Programming, Machine Learning, Web Development
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshilnikam01-lgtm&show_icons=true&theme=transparent&hide_border=true" alt="Darshil's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilnikam01-lgtm&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+</div>
