@@ -10,7 +10,7 @@
 
 ---
 
-I am a Computer Science and Design undergraduate passionate about low-level systems, algorithmic problem-solving, and scalable machine learning infrastructure. I absolutely love making open-source contributions and collaborating on robust software solutions.
+I am a Computer Science undergraduate passionate about low-level systems, algorithmic problem-solving, and scalable machine learning infrastructure. I absolutely love making open-source contributions and collaborating on robust software solutions.
 
 * **Tech Stack:** C++, Python, JavaScript, LaTeX
 * **Core Domains:** Data Structures & Algorithms, Systems Programming, Machine Learning, Web Development
